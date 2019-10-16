@@ -1,3 +1,9 @@
+/****************************
+**
+**    main.cpp
+**    Author: Prantick4u
+**
+****************************/
 #include<iostream>
 #include "denomination.hpp"
 using namespace std;

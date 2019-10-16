@@ -1,3 +1,9 @@
+/****************************
+**
+**    denomination.cpp
+**    Author: Prantick4u
+**
+****************************/
 #include "denomination.hpp"
 
 Denomination::Denomination()
